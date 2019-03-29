@@ -646,8 +646,11 @@ and do it all over again...
 
 ***
 
+## Monday May 27 - MEMORIAL DAY - NO CLASS
+
 ## Week 09
-## Monday May 27
+
+## Wednesday May 29
 
 ### NEXT PRESENTATION: Fariba Salehi
 
@@ -698,7 +701,7 @@ doSomething().then(doSomethingElse);
 * `git checkout master` OR `gh-pages` to switch back to origin branch
 and do it all over again...
 
-## Wednesday May 29
+## Monday June 03
 
 ### NEXT PRESENTATION: Marisa Schweda and Landon Taylor
 
@@ -750,9 +753,10 @@ and do it all over again...
 ***
 
 ## Week 10
-## Monday June 03
 
-### NEXT PRESENTATION: Selena Solis
+## Wednesday June 05
+
+### LAST PRESENTATION: Selena Solis
 
 *1) Babel.js. Why do we need it and how to use it. 2) What does the spread operator do and how do you use it? 3) What are two new features of ES7?*
 
@@ -781,9 +785,7 @@ and do it all over again...
 * `git checkout master` OR `gh-pages` to switch back to origin branch
 and do it all over again...
 
-## Monday June 05
-
-### LAST PRESENTATION: 
+## Monday June 10
 
 ### What's Due Sunday:
 
