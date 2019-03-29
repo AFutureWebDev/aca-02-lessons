@@ -1,11 +1,11 @@
-# Austin Coding Academt - Intermdiate JavaScript 
+# Austin Coding Academy - Intermdiate JavaScript 
 
 ***
 
 ## Week 01
 ## Monday April 01
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -29,7 +29,7 @@
 and do it all over again...
 
 ## Wednesday April 03
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -57,7 +57,7 @@ and do it all over again...
 ## Week 02
 ## Monday April 08
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -82,7 +82,7 @@ and do it all over again...
 
 ## Wednesday April 10
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -110,7 +110,7 @@ and do it all over again...
 ## Week 03
 ## Monday April 15
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -135,7 +135,7 @@ and do it all over again...
 
 ## Wednesday April 17
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -163,7 +163,7 @@ and do it all over again...
 ## Week 04
 ## Monday April 22
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -188,7 +188,7 @@ and do it all over again...
 
 ## Wednesday April 24
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -216,7 +216,7 @@ and do it all over again...
 ## Week 05
 ## Monday April 29
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -241,7 +241,7 @@ and do it all over again...
 
 ## Wednesday May 01
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -269,7 +269,7 @@ and do it all over again...
 ## Week 06
 ## Monday May 06
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -294,7 +294,7 @@ and do it all over again...
 
 ## Wednesday May 08
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -322,7 +322,7 @@ and do it all over again...
 ## Week 07
 ## Monday May 13
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -347,7 +347,7 @@ and do it all over again...
 
 ## Wednesday May 15
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -375,7 +375,7 @@ and do it all over again...
 ## Week 08
 ## Monday May 20
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -400,7 +400,7 @@ and do it all over again...
 
 ## Wednesday May 22
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -428,7 +428,7 @@ and do it all over again...
 ## Week 09
 ## Monday May 27
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -453,7 +453,7 @@ and do it all over again...
 
 ## Wednesday May 29
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -481,7 +481,7 @@ and do it all over again...
 ## Week 10
 ## Monday June 03
 
-### PRESENTATION: 
+### NEXT PRESENTATION: 
 
 ### What's Due:
 
@@ -506,7 +506,7 @@ and do it all over again...
 
 ## Monday June 05
 
-### PRESENTATION: 
+### LAST PRESENTATION: 
 
 ### What's Due:
 
