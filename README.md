@@ -5,7 +5,9 @@
 ## Week 01
 ## Monday April 01
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Daniela Archibong and Anne Baker
+
+*VS Code Short-Cuts - Present to the class 4 short-cuts each, why and how to use them.*
 
 ### What's Due Sunday:
 
@@ -45,7 +47,10 @@ We may make a few assumptions:
 and do it all over again...
 
 ## Wednesday April 03
-### NEXT PRESENTATION: 
+
+### NEXT PRESENTATION: David Bobb and Luis Carter
+
+*VS Code Packages - Present to the class 2 each useful and under utilized packages for VS Code.*
 
 ### What's Due Sunday:
 
@@ -79,7 +84,9 @@ and do it all over again...
 ## Week 02
 ## Monday April 08
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Jameson Dettle
+
+*How do you learn to learn?*
 
 ### What's Due Sunday:
 
@@ -108,7 +115,9 @@ and do it all over again...
 
 ## Wednesday April 10
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Aaron Gonzalez and Jenna Gullick
+
+*6 (3 each) Node commands that haven't been covered so far.*
 
 ### What's Due Sunday:
 
@@ -140,7 +149,9 @@ and do it all over again...
 ## Week 03
 ## Monday April 15
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Joseph Hauger and Lorianne Hutauruk
+
+*6 (3 each) Useful Git commands that haven't been learned yet.*
 
 ### What's Due Sunday:
 
@@ -169,7 +180,9 @@ and do it all over again...
 
 ## Wednesday April 17
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Mitchell Jolivette
+
+*Explain how to use the debugging tool in VS Code and how to debug code with it.*
 
 ### What's Due Sunday:
 
@@ -207,7 +220,9 @@ and do it all over again...
 ## Week 04
 ## Monday April 22
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION:  Kiley Lewis
+
+*Explain and demonstrate to your fellow students 1) Template Literals in ES6 and 2) What and how to use Multi-line Strings in ES6*
 
 ### What's Due Sunday:
 
@@ -248,7 +263,9 @@ and do it all over again...
 
 ## Wednesday April 24
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION (May 1st): Erin McBride
+
+*Explain and demonstrate to your classmates 1) what and how to use the Destructuring Assignment in ES6 and 2) what and how to use Classes in ES6*
 
 ### What's Due Sunday:
 
@@ -289,8 +306,6 @@ and do it all over again...
 
 ## Week 05
 ## Monday April 29
-
-### NEXT PRESENTATION: 
 
 ### What's Due Sunday:
 
@@ -334,7 +349,9 @@ and do it all over again...
 
 ## Wednesday May 01
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Erin McCarthy
+
+*Explain and demonstrate to your fellow classmates 1) the Block-Scoped constructs let and const. Why were they created and how do we use them? As well as, 2) Default Parameters in ES6*
 
 ### What's Due Sunday:
 
@@ -376,7 +393,9 @@ and do it all over again...
 ## Week 06
 ## Monday May 06
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Kelly Nguyen
+
+*Describe to the class 1) what function overloading is in class in JavaScript? 2) How to empty an array in JavaScript?*
 
 ### What's Due Sunday:
 
@@ -414,7 +433,11 @@ and do it all over again...
 
 ## Wednesday May 08
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Alayna Puckett and Sarad Rajbhandari
+
+*Mac User: Introduce to the class, iterm and why it's a fun and useful terminal replacement. Offer to the class 3 beginner friendly tips and 3 beginner friendly configurations. If you've already discussed iterm in class, offer to your classmates 5 new configurations to improver yours and their workflow.* 
+
+*Windows User: Introduce ConEmu and why it's a fun and useful terminal replacement. Offer to the class 3 beginner friendly tips and 3 beginner friendly configurations. If you've already discussed ConEmu in class, offer to your classmates 5 new configurations to improver yours and their workflow.*
 
 ### What's Due Sunday:
 
@@ -448,7 +471,9 @@ and do it all over again...
 ## Week 07
 ## Monday May 13
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Johanna Rathkamp
+
+*Explain to the class what is Node. What are Node Modules? What is npm used for? Why do we need to use npm and node? How do you import a Node module into a project?*
 
 ### What's Due Sunday:
 
@@ -490,7 +515,9 @@ and do it all over again...
 
 ## Wednesday May 15
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Jill Rey Filipos
+
+*Introduce and interest people in the event loop in Javascript.*
 
 ### What's Due Sunday:
 
@@ -536,7 +563,9 @@ and do it all over again...
 ## Week 08
 ## Monday May 20
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Mikaela Rodriguez
+
+*Bring to the class an example of an async function with await variables. What do they do? Why would we use them and how do we use them?*
 
 ### What's Due Sunday:
 
@@ -573,7 +602,9 @@ and do it all over again...
 
 ## Wednesday May 22
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Masha Romanova
+
+*Prepare an example of using Quokka.js and share with the class what it does and how to use it.*
 
 ### What's Due Sunday:
 
@@ -618,7 +649,9 @@ and do it all over again...
 ## Week 09
 ## Monday May 27
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Fariba Salehi
+
+*What is the difference between the fetch API and isomorphic-fetch? Why will we need to use it and how do you use it?*
 
 ### What's Due Sunday:
 
@@ -667,7 +700,17 @@ and do it all over again...
 
 ## Wednesday May 29
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Marisa Schweda and Landon Taylor
+
+*Get even better with VS Code. How to:*
+*Multiple Cursors*
+*Select multiple line
+*Select pieces within elements from child to parent to parent to parent*
+*Collapse and Expand*
+*Move blocks of code()*
+*Select matching letters
+*Add at least 8 more to this list.*
+*Really provide yourself and your classmates with short-cuts to make you stronger and faster developers.*
 
 ### What's Due Sunday:
 
@@ -709,7 +752,9 @@ and do it all over again...
 ## Week 10
 ## Monday June 03
 
-### NEXT PRESENTATION: 
+### NEXT PRESENTATION: Selena Solis
+
+*1) Babel.js. Why do we need it and how to use it. 2) What does the spread operator do and how do you use it? 3) What are two new features of ES7?*
 
 ### What's Due Sunday:
 
