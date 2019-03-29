@@ -29,7 +29,9 @@ We may make a few assumptions:
 
 ### Lesson
 
-[Date and Time Webpage](https://javascript.austincodingacademy.com/_book/01Week/01DayClass.html)
+* DISCUSSION
+
+* [Date and Time Webpage](https://javascript.austincodingacademy.com/_book/01Week/01DayClass.html)
 
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
@@ -56,6 +58,8 @@ and do it all over again...
 **PROMPT: Hourglasses Puzzle** How do you measure 9 minutes from a 4 minutes hourglass and a 7 minutes hourglass?
 
 ### Lesson
+
+* DISCUSSION
 
 * [Rock, paper, scissors game](https://javascript.austincodingacademy.com/_book/01Week/02DayClass.html)
 
@@ -89,6 +93,8 @@ and do it all over again...
 
 ### Lesson
 
+* DISCUSSION
+
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
 * then `git pull` changes,
@@ -115,6 +121,8 @@ and do it all over again...
 **PROMPT: FizzBuzz** Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
 ### Lesson
+
+* DISCUSSION
 
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
@@ -145,6 +153,8 @@ and do it all over again...
 **PROMPT** Write a function that determines if a string contains all unique characters.
 
 ### Lesson
+
+* DISCUSSION
 
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
@@ -178,6 +188,8 @@ findLongestWord(myString) => 'navigation', 10
 ```
 
 ### Lesson
+
+* DISCUSSION
 
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
@@ -221,6 +233,8 @@ What will be the output of the code below? `console.log(0.1 + 0.2 == 0.3);`
 
 ### Lesson
 
+* DISCUSSION
+
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
 * then `git pull` changes,
@@ -257,6 +271,8 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 ```
 
 ### Lesson
+
+* DISCUSSION
 
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
@@ -303,6 +319,8 @@ add(2)(5); // 7
 
 ### Lesson
 
+* DISCUSSION
+
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
 * then `git pull` changes,
@@ -339,6 +357,8 @@ What value is returned from the following statement?
 ```
 
 ### Lesson
+
+* DISCUSSION
 
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
@@ -379,6 +399,8 @@ and do it all over again...
 
 ### Lesson
 
+* DISCUSSION
+
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
 * then `git pull` changes,
@@ -407,6 +429,8 @@ and do it all over again...
 2. Given an array, find the maximum value of the array
 
 ### Lesson
+
+* DISCUSSION
 
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
@@ -451,6 +475,8 @@ alert(foo + bar);
 
 ### Lesson
 
+* DISCUSSION
+
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
 * then `git pull` changes,
@@ -492,6 +518,8 @@ foo.push(2);
 
 ### Lesson
 
+* DISCUSSION
+
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
 * then `git pull` changes,
@@ -529,6 +557,8 @@ foo.x = foo = {n: 2};
 ```
 
 ### Lesson
+
+* DISCUSSION
 
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
@@ -569,6 +599,8 @@ console.log('four');
 ```
 
 ### Lesson
+
+* DISCUSSION
 
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
@@ -620,6 +652,8 @@ doSomething().then(doSomethingElse);
 
 ### Lesson
 
+* DISCUSSION
+
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
 * then `git pull` changes,
@@ -657,6 +691,8 @@ and do it all over again...
 
 ### Lesson
 
+* DISCUSSION
+
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
 * then `git pull` changes,
@@ -686,6 +722,8 @@ and do it all over again...
 * [Print in reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
 
 ### Lesson
+
+* DISCUSSION
 
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
@@ -722,6 +760,8 @@ and do it all over again...
     * In its simplest form, binary search is used to quickly find a value in a sorted sequence (consider a sequence an ordinary array for now). We’ll call the sought value the target value for clarity. Binary search maintains a contiguous subsequence of the starting sequence where the target value is surely located. This is called the search space. The search space is initially the entire sequence. At each step, the algorithm compares the median value in the search space to the target value. Based on the comparison and because the sequence is sorted, it can then eliminate half of the search space. By doing this repeatedly, it will eventually be left with a search space consisting of a single element, the target value.
 
 ### Lesson
+
+* DISCUSSION
 
 ### Git Flow Reminder
 * `git checkout master` OR `gh-pages` (whichever is your origin)
