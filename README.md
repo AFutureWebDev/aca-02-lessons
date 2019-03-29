@@ -1,4 +1,4 @@
-# Austin Coding Academy - Intermdiate JavaScript 
+# Austin Coding Academy - Intermediate JavaScript 
 
 ***
 
